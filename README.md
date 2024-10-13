@@ -4,6 +4,7 @@
   <a href="https://github.com/allefe1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allefe1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allefe1&layout=compact&langs_count=6&theme=tokyonight"/>
+    
   <img src="https://img.icons8.com/?size=100&id=2572&format=png&color=000000" width="120" alt="Java">
   <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="120" alt="SpringBoot">
   <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="120" alt="C++">
