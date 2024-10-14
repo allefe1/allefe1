@@ -1,15 +1,19 @@
 # Hello World, I'm Allefe, be very welcome
 
 <table>
-  <a href="https://github.com/allefe1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=allefe1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allefe1&layout=compact&langs_count=6&theme=tokyonight"/>
-    
-  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="120" alt="Java">
-  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="120" alt="SpringBoot">
-  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="120" alt="C++">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
+    <a href="https://github.com/allefe1">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=allefe1&count_private=true&show_icons=true&theme=github_dark"/>
+    <img height="171em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allefe1&layout=compact&count_private=true&show_icons=true&theme=github_dark"/>
+  
+   
+ <div>
+  <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="80" alt="Java"/>  
+  <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="80" alt="SpringBoot"/>
+  <img src="https://img.icons8.com/?size=100&id=TpULddJc4gTh&format=png&color=000000" width="80" alt="C++"/>
+  <img src="https://img.icons8.com/color/2x/html-5.png" width="80" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/2x/css3.png" width="80" alt="CSS3"/>
+ </div>
+
 </table>
 
 <div> 
